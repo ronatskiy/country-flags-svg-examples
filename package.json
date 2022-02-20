@@ -1,0 +1,27 @@
+{
+  "name": "country-flags-svg-examples",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronatskiy/country-flags-svg-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronatskiy/country-flags-svg-examples/issues"
+  },
+  "homepage": "https://github.com/ronatskiy/country-flags-svg-examples#readme",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  },
+  "dependencies": {
+    "country-flags-svg": "latest"
+  }
+}
